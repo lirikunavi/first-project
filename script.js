@@ -1,3 +1,4 @@
+
 // Тема
 const toggleButton = document.getElementById('toggleButton');
 const body = document.body;

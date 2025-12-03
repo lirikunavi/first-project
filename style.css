@@ -83,7 +83,8 @@ button:hover {
 body.dark-theme {
     background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
 }
- .skill {
+
+.skill {
     margin: 1rem 0;
 }
 
