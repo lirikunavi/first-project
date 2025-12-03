@@ -83,3 +83,21 @@ button:hover {
 body.dark-theme {
     background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
 }
+ .skill {
+    margin: 1rem 0;
+}
+
+.progress-bar {
+    height: 10px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+    margin-top: 5px;
+    overflow: hidden;
+}
+
+.progress {
+    height: 100%;
+    background: linear-gradient(90deg, #4ade80, #22c55e);
+    border-radius: 5px;
+    transition: width 1s ease;
+}
